@@ -1,0 +1,23 @@
+---
+title: 인포테인먼트 오디오/미디어 관리
+subtitle: Android Framework, Middleware
+layout: default
+modal-id: 6
+date: 2026-02-19
+img: bey1.png
+img2: bey2.png
+img3: bey3.png
+img4: bey4.png
+thumbnail: bey1.png
+alt: image-alt
+update: 2026/02/19
+technology: Android Framework, Middleware, C++, Java
+code: 
+demo: 베이리스
+link1: http://www.beyless.com/kr/inc_html/index.html
+link2: 
+description: 차량용 내비게이션 인포테인먼트 내의 소프트웨어 개발 및 유지보수
+description2: 현대 및 기아 차량에 들어가는 소프트웨어 전 향지 맞춰 유지보수
+description3: Audio, Media 부문 Framework 개발
+description4: Chip사에 맞춰 Middleware 개발
+---
